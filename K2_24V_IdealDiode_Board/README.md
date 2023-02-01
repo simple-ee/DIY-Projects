@@ -26,7 +26,7 @@ bom list that are not in stock.
 [Bill of Materials](https://github.com/simple-ee/DIY-Projects/tree/main/K2_24V_IdealDiode_Board/Bill%20of%20Materials)
 
 ## Pinout and Block Diagram <a name="thediagram"></a>
-<img src="20221103_DIYFumeExtractor_WiringDiagram.png" width="90%">
+<img src="Images/20230123_K2_24V_IdealDiodes_WiringDiagram.png" width="90%">
 
 
 ## Pictures <a name="thePictures"></a>
