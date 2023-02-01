@@ -23,6 +23,7 @@ you can use any n channel mosfet that uses the LFPAK-88 footprint and is atleast
 40V VDS.  I will link a couple of alternatives that work as well as other parts on the 
 bom list that are not in stock.
 
+[Bill of Materials](https://github.com/simple-ee/DIY-Projects/tree/main/K2_24V_IdealDiode_Board/Bill%20of%20Materials)
 
 ## Pinout and Block Diagram <a name="thediagram"></a>
 <img src="20221103_DIYFumeExtractor_WiringDiagram.png" width="90%">
